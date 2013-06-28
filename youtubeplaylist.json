@@ -1,43 +1,28 @@
 [
     {
-        "title": "ધુન",
-        "playlist": "E7bGNJXntzD9PmKYIQwSRIE3ZpBxma7y",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/dhun.png"
-    }, 
+        "title": "આરતી",
+        "playlist": "E7bGNJXntzBNayKUaKRWjAmN9Z9fPFTJ",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/aarti.png"
+    },
+    {
+        "title": "ઇન્ટરવ્યુ",
+        "playlist": "E7bGNJXntzD8h57sJdsWZ5Jf8aTutdjI",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/interview.png"
+    },
+    {
+        "title": "ઇવેન્ટસ",
+        "playlist": "E7bGNJXntzApe8ofwzdq29p4zJHrhw4S",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/events.png"
+    },
     {
         "title": "કથા",
         "playlist": "E7bGNJXntzCnxMa8G2uc42snl8EHyVX4",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/katha.png"
     },
     {
-        "title": "ભજન",
-        "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
-    },
-    {
-        "title": "આરતી",
-        "playlist": "E7bGNJXntzBNayKUaKRWjAmN9Z9fPFTJ",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/aarti.png"
-    },
-    {
-        "title": "સ્તુતી",
-        "playlist": "E7bGNJXntzAq0bAxR8bOrCtvxmYbahoq",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/stuti.png"
-    },
-    {
-        "title": "સંતવાણી",
-        "playlist": "E7bGNJXntzDEzmZ246veeO33n5oQ4nIx",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/saintvani.png"
-    },
-    {
-        "title": "ભક્તિ ગીત",
-        "playlist": "E7bGNJXntzCJOdZe-iwJGsXZtFkuxJTz",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhaktigeet.png"
-    },
-    {
-        "title": "ડાકલા",
-        "playlist": "E7bGNJXntzD2ibVD_1rUFwLqHna8hOq2",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/dakla.png"
+        "title": "ગઝલ",
+        "playlist": "E7bGNJXntzDlylqVOKO6MsI00qj0us2k",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/katha.png"
     },
     {
         "title": "ગરબા",
@@ -45,9 +30,19 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/garba.png"
     },
     {
-        "title": "રમઝટ",
-        "playlist": "E7bGNJXntzABVYhFTx7jBQAgkvUWqV8M",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
+        "title": "ફિલ્મ",
+        "playlist": "E7bGNJXntzCO5vPdeDBE_KxhDvHqOAKI",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/film.png"
+    },
+    {
+        "title": "ચાલીસા",
+        "playlist": "E7bGNJXntzBHNgrblgIWQxBHfGXA6z6U",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/film.png"
+    },
+    {
+        "title": "જાદુગર કે. લાલ",
+        "playlist": "E7bGNJXntzCPNlJjVVYb8iFPeglQ2lvd",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/klal.PNG"
     },
     {
         "title": "જોક્સ",
@@ -55,14 +50,94 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/jokes.png"
     },
     {
+        "title": "ટેક્નોલોજી",
+        "playlist": "E7bGNJXntzBjILbzQlDbDZfJkDingvxo",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/technology.png"
+    },
+    {
+        "title": "ડાકલા",
+        "playlist": "E7bGNJXntzD2ibVD_1rUFwLqHna8hOq2",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/dakla.png"
+    },
+    {
+        "title": "તહેવારો",
+        "playlist": "E7bGNJXntzDAVoyDb6f7TZoq9zGKg69i",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/tahvar.png"
+    },
+    {
+        "title": "ધાર્મીક સમુદાય",
+        "playlist": "E7bGNJXntzDAVoyDb6f7TZoq9zGKg69i",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/tahvar.png"
+    },
+    {
+        "title": "ધુન",
+        "playlist": "E7bGNJXntzD9PmKYIQwSRIE3ZpBxma7y",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/dhun.png"
+    },
+    {
+        "title": "Shree Narendra Modi",
+        "playlist": "E7bGNJXntzCZEi2zb0C2PpQ2-EUMjGC-",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shreemodi.png"
+    },
+    {
         "title": "નાટક",
         "playlist": "E7bGNJXntzC-trzmV2N2J21QAnksdV6A",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/natak.png"
     },
     {
-        "title": "જાદુગર કે. લાલ",
-        "playlist": "E7bGNJXntzCPNlJjVVYb8iFPeglQ2lvd",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/klal.PNG"
+        "title": "નોનસ્ટોપ",
+        "playlist": "E7bGNJXntzACXWLbq4sO0iOZb8Lv8gDY",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/nonstop.png"
+    },
+    {
+        "title": "પર્યટન",
+        "playlist": "E7bGNJXntzADmN-t9bT1uo7TmRr-kqYB",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/paryatan.png"
+    },
+    {
+        "title": "ફેશન",
+        "playlist": "E7bGNJXntzCZM1jZ99D62IFUhYyCk-JR",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/fashion.png"
+    },
+    {
+        "title": "ભક્તિ ગીત",
+        "playlist": "E7bGNJXntzCJOdZe-iwJGsXZtFkuxJTz",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhaktigeet.png"
+    },
+    {
+        "title": "ભજન",
+        "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
+    },
+    {
+        "title": "મહા મંત્ર",
+        "playlist": "E7bGNJXntzD55RnPNW2o0_m6bOI0tle7",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
+    },
+    {
+        "title": "રમઝટ",
+        "playlist": "E7bGNJXntzABVYhFTx7jBQAgkvUWqV8M",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
+    },
+    {
+        "title": "રસોઇનો રંગ સૌને સંગ",
+        "playlist": "E7bGNJXntzBJGs1jMMAKaF-tzurZAmtZ",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
+    },
+    {
+        "title": "રેડ એફ એમ",
+        "playlist": "E7bGNJXntzBuWbS3RqIG8GXGa4NOGecp",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
+    },
+    {
+        "title": "લગ્ન ગીત",
+        "playlist": "E7bGNJXntzCIccEEn7FGRJS6IAmtHFeH",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/lagnageet.png"
+    },
+    {
+        "title": "લોક ગીત",
+        "playlist": "E7bGNJXntzBg7E2pAAvUwT9K0VBJcRR6",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/lokgeet.png"
     },
     {
         "title": "લોક ડાયરો",
@@ -75,54 +150,24 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/loksahitya.png"
     },
     {
-        "title": "શીખો અમારી સાથેલ",
-        "playlist": "E7bGNJXntzD1Cc8PMic12qCIMcd6Y4rb",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shikho.PNG"
-    },
-    {
-        "title": "લોક ગીત",
-        "playlist": "E7bGNJXntzBg7E2pAAvUwT9K0VBJcRR6",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/lokgeet.png"
-    },
-    {
-        "title": "લગ્ન ગીત",
-        "playlist": "E7bGNJXntzCIccEEn7FGRJS6IAmtHFeH",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/lagnageet.png"
-    },
-    {
-        "title": "નોનસ્ટોપ",
-        "playlist": "E7bGNJXntzACXWLbq4sO0iOZb8Lv8gDY",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/nonstop.png"
-    },
-    {
-        "title": "સીરીયલ",
-        "playlist": "CCAE9ED34F8E0D3D",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/serial.png"
-    },
-    {
-        "title": "ફિલ્મ",
-        "playlist": "E7bGNJXntzCO5vPdeDBE_KxhDvHqOAKI",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/film.png"
-    },
-    {
         "title": "વાનગી",
         "playlist": "E7bGNJXntzCeHtmpXBmM-PJNC95VzhSF",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/vangi.png"
     },
     {
-        "title": "ઇવેન્ટસ",
-        "playlist": "E7bGNJXntzApe8ofwzdq29p4zJHrhw4S",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/events.png"
+        "title": "શીખો અમારી સાથેલ",
+        "playlist": "E7bGNJXntzD1Cc8PMic12qCIMcd6Y4rb",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shikho.PNG"
     },
     {
-        "title": "પર્યટન",
-        "playlist": "E7bGNJXntzADmN-t9bT1uo7TmRr-kqYB",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/paryatan.png"
+        "title": "સંતવાણી",
+        "playlist": "E7bGNJXntzDEzmZ246veeO33n5oQ4nIx",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/saintvani.png"
     },
     {
-        "title": "ઇન્ટરવ્યુ",
-        "playlist": "E7bGNJXntzD8h57sJdsWZ5Jf8aTutdjI",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/interview.png"
+        "title": "સ્તુતી",
+        "playlist": "E7bGNJXntzAq0bAxR8bOrCtvxmYbahoq",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/stuti.png"
     },
     {
         "title": "સ્પીચ",
@@ -130,24 +175,19 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/speech.png"
     },
     {
-        "title": "ટેક્નોલોજી",
-        "playlist": "E7bGNJXntzBjILbzQlDbDZfJkDingvxo",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/technology.png"
+        "title": "હાલરડા",
+        "playlist": "E7bGNJXntzAtWhGrmGeapBGTJY6UPzSU",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/speech.png"
     },
     {
-        "title": "ફેશન",
-        "playlist": "E7bGNJXntzCZM1jZ99D62IFUhYyCk-JR",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/fashion.png"
+        "title": "હેલ્થ ટીપ્સ",
+        "playlist": "E7bGNJXntzDpArpGb6tiDOYSw8WZjPpY",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/speech.png"
     },
     {
-        "title": "તહેવારો",
-        "playlist": "E7bGNJXntzDAVoyDb6f7TZoq9zGKg69i",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/tahvar.png"
-    },
-    {
-        "title": "Shree Narendra Modi",
-        "playlist": "E7bGNJXntzCZEi2zb0C2PpQ2-EUMjGC-",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shreemodi.png"
-    }
+        "title": "સીરીયલ",
+        "playlist": "CCAE9ED34F8E0D3D",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/serial.png"
+    }, 
 ]
 
