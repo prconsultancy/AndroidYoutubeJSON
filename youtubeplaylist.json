@@ -150,11 +150,6 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/loksahitya.png"
     },
     {
-        "title": "વાનગી",
-        "playlist": "E7bGNJXntzCeHtmpXBmM-PJNC95VzhSF",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/vangi.png"
-    },
-    {
         "title": "શીખો અમારી સાથેલ",
         "playlist": "E7bGNJXntzD1Cc8PMic12qCIMcd6Y4rb",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shikho.PNG"
@@ -183,11 +178,6 @@
         "title": "હેલ્થ ટીપ્સ",
         "playlist": "E7bGNJXntzDpArpGb6tiDOYSw8WZjPpY",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/speech.png"
-    },
-    {
-        "title": "સીરીયલ",
-        "playlist": "CCAE9ED34F8E0D3D",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/serial.png"
-    } 
+    }
 ]
 
