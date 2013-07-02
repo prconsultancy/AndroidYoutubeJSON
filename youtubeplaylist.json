@@ -1,5 +1,20 @@
 [
     {
+        "title": "ભજન",
+        "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
+    },
+    {
+        "title": "ગરબા",
+        "playlist": "E7bGNJXntzAN7BRzbLrFa2sakhftrq0O",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/garba.png"
+    },
+    {
+        "title": "નાટક",
+        "playlist": "E7bGNJXntzC-trzmV2N2J21QAnksdV6A",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/natak.png"
+    },
+    {
         "title": "આરતી",
         "playlist": "E7bGNJXntzBNayKUaKRWjAmN9Z9fPFTJ",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/aarti.png"
@@ -23,11 +38,6 @@
         "title": "ગઝલ",
         "playlist": "E7bGNJXntzDlylqVOKO6MsI00qj0us2k",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/gazal.PNG"
-    },
-    {
-        "title": "ગરબા",
-        "playlist": "E7bGNJXntzAN7BRzbLrFa2sakhftrq0O",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/garba.png"
     },
     {
         "title": "ફિલ્મ",
@@ -80,11 +90,6 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shreemodi.png"
     },
     {
-        "title": "નાટક",
-        "playlist": "E7bGNJXntzC-trzmV2N2J21QAnksdV6A",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/natak.png"
-    },
-    {
         "title": "નોનસ્ટોપ",
         "playlist": "E7bGNJXntzACXWLbq4sO0iOZb8Lv8gDY",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/nonstop.png"
@@ -103,11 +108,6 @@
         "title": "ભક્તિ ગીત",
         "playlist": "E7bGNJXntzCJOdZe-iwJGsXZtFkuxJTz",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhaktigeet.png"
-    },
-    {
-        "title": "ભજન",
-        "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
     },
     {
         "title": "મહા મંત્ર",
