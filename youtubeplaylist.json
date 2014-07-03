@@ -1,5 +1,10 @@
 [
     {
+        "title": "ફિફા વિશ્વ કપ ૨૦૧૪",
+        "playlist": "E7bGNJXntzDDsYvHhssaJffD1gFDwBt4",
+        "url":"https://raw.githubusercontent.com/prconsultancy/AndroidYoutubeJSON/master/images/fifaworldcup2014.png"
+    },
+    {
         "title": "ભજન",
         "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
@@ -133,11 +138,6 @@
         "title": "ડાકલા",
         "playlist": "E7bGNJXntzD2ibVD_1rUFwLqHna8hOq2",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/dakla.png"
-    },
-    {
-        "title": "જાદુગર કે. લાલ",
-        "playlist": "E7bGNJXntzCPNlJjVVYb8iFPeglQ2lvd",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/klal.PNG"
     },
     {
         "title": "ધાર્મીક સમુદાય",
