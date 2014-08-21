@@ -5,6 +5,11 @@
         "url":"https://raw.githubusercontent.com/prconsultancy/AndroidYoutubeJSON/master/images/requestedvideo.png"
     },
     {
+        "title": "રાજકોટ થી દિલ્હી ફ્લાઇટ ચળવળ",
+        "playlist": "E7bGNJXntzA6bPQS9r0v3R1O0ViEM2mh",
+        "url":"https://raw.githubusercontent.com/prconsultancy/AndroidYoutubeJSON/master/images/flightmovement.png"
+    },
+    {
         "title": "ભજન",
         "playlist": "E7bGNJXntzCTvKfY71lIBhxoV-vlMCI6",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/bhajan.png"
@@ -93,11 +98,6 @@
         "title": "રમઝટ",
         "playlist": "E7bGNJXntzABVYhFTx7jBQAgkvUWqV8M",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
-    },
-    {
-        "title": "રસોઇનો રંગ સૌને સંગ",
-        "playlist": "E7bGNJXntzBJGs1jMMAKaF-tzurZAmtZ",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/rasoinorang.png"
     },
     {
         "title": "ઇન્ટરવ્યુ",
