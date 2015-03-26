@@ -80,11 +80,6 @@
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/recipe.png"
     },
     {
-        "title": "શીખો અમારી સાથે",
-        "playlist": "E7bGNJXntzD1Cc8PMic12qCIMcd6Y4rb",
-        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shikho.PNG"
-    },
-    {
         "title": "રમઝટ",
         "playlist": "E7bGNJXntzABVYhFTx7jBQAgkvUWqV8M",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/ramzat.png"
@@ -98,6 +93,11 @@
         "title": "ઇન્ટરવ્યુ",
         "playlist": "E7bGNJXntzD8h57sJdsWZ5Jf8aTutdjI",
         "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/interview.png"
+    },
+    {
+        "title": "શીખો અમારી સાથે",
+        "playlist": "E7bGNJXntzD1Cc8PMic12qCIMcd6Y4rb",
+        "url":"https://raw.github.com/prconsultancy/AndroidYoutubeJSON/master/images/shikho.PNG"
     },
     {
         "title": "સ્પીચ",
